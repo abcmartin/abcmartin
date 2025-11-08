@@ -1,0 +1,12 @@
+{
+    "chat.editor.wordWrap": "on",
+    "chat.edits2.enabled": true,
+    "chat.emptyState.history.enabled": true,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnPaste": true,
+    "editor.allowVariableFontsInAccessibilityMode": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActions.triggerOnFocusChange": true
+}
