@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/master.swiftdeps"
+  },
+  "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.derived/AutoPDFRenamerTests.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/AutoPDFRenamerTests.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/AutoPDFRenamerTests.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/AutoPDFRenamerTests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/AutoPDFRenamerTests.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/AutoPDFRenamerTests.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.derived/all-discovered-tests.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/all-discovered-tests.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/all-discovered-tests.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/all-discovered-tests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/all-discovered-tests.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamerPackageDiscoveredTests.build/all-discovered-tests.dia"
+  }
+}

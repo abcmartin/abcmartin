@@ -1,0 +1,82 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/master.swiftdeps"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/AutoPDFRenamerApp.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/AutoPDFRenamerApp.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/AutoPDFRenamerApp.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/AutoPDFRenamerApp~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/AutoPDFRenamerApp.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/AutoPDFRenamerApp.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/Models/LogEntry.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/LogEntry.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/LogEntry.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/LogEntry~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/LogEntry.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/LogEntry.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/Models/ProcessingOutcome.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingOutcome.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingOutcome.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingOutcome~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingOutcome.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingOutcome.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/Services/FolderWatcher.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/FolderWatcher.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/FolderWatcher.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/FolderWatcher~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/FolderWatcher.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/FolderWatcher.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/Services/MetadataExtraction.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/MetadataExtraction.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/MetadataExtraction.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/MetadataExtraction~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/MetadataExtraction.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/MetadataExtraction.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/Services/ProcessingCoordinator.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingCoordinator.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingCoordinator.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingCoordinator.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingCoordinator.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/Services/ProcessingQueue.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingQueue.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingQueue.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingQueue~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingQueue.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingQueue.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/Services/RenamingService.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/RenamingService.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/RenamingService.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/RenamingService~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/RenamingService.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/RenamingService.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/Services/TextAcquisition.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/TextAcquisition.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/TextAcquisition.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/TextAcquisition~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/TextAcquisition.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/TextAcquisition.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/ViewModels/ProcessingLogViewModel.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingLogViewModel.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingLogViewModel.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingLogViewModel~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingLogViewModel.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ProcessingLogViewModel.dia"
+  },
+  "/home/runner/work/abcmartin/abcmartin/Sources/AutoPDFRenamer/Views/ContentView.swift": {
+    "dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ContentView.d",
+    "object": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ContentView.swift.o",
+    "swiftmodule": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ContentView.swiftdeps",
+    "diagnostics": "/home/runner/work/abcmartin/abcmartin/.build/x86_64-unknown-linux-gnu/debug/AutoPDFRenamer.build/ContentView.dia"
+  }
+}
