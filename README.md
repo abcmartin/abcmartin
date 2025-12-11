@@ -107,3 +107,7 @@ Neben der klinischen Tätigkeit interessiere ich mich besonders für datengetrie
 - E-Mail: `martin.juetz@mail.de`  
 - Standort: Berlin, Deutschland  
 - Offen für: Kollaborationen in translationaler Onkologie, medizinischer Datenanalyse, Telemedizin & Digital Health
+
+## 🎮 Web Tetris
+
+Eine schlanke Tetris-Web-App mit moderner Optik liegt im Verzeichnis `WebTetris`. Öffne `WebTetris/index.html` lokal im Browser oder starte mit einem simplen HTTP-Server (z. B. `python -m http.server` im Verzeichnis), um die Steuerung mit Pfeiltasten/Leertaste zu nutzen.
