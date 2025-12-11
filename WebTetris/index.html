@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tetris Moderne Web-App</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="app-shell">
+        <header class="app-header">
+            <div class="brand">
+                <span class="dot"></span>
+                <div>
+                    <p class="eyebrow">Playground</p>
+                    <h1>Tetris</h1>
+                </div>
+            </div>
+            <div class="header-actions">
+                <button id="pauseBtn" class="ghost">⏯ Pause</button>
+                <button id="resetBtn" class="primary">Neustart</button>
+            </div>
+        </header>
+
+        <main class="layout">
+            <section class="game-panel">
+                <canvas id="board" width="300" height="600" aria-label="Spielfeld"></canvas>
+                <div class="controls-hint">
+                    <p><strong>Steuerung</strong></p>
+                    <p>Pfeile: Links/Rechts/Runter · ␣: Hard Drop · R: Rotieren</p>
+                </div>
+            </section>
+            <aside class="info-panel">
+                <div class="card">
+                    <p class="eyebrow">Score</p>
+                    <h2 id="score">0</h2>
+                    <p class="eyebrow">Level</p>
+                    <h3 id="level">1</h3>
+                    <p class="eyebrow">Zeilen</p>
+                    <h3 id="lines">0</h3>
+                </div>
+                <div class="card">
+                    <p class="eyebrow">Nächstes Teil</p>
+                    <canvas id="next" width="120" height="120" aria-label="Vorschau"></canvas>
+                </div>
+            </aside>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
